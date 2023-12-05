@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Kanocycle's blog: Welcome to my blog
 ---
 
